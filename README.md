@@ -1,0 +1,2 @@
+# data-type.js
+datatype
